@@ -3,9 +3,9 @@ Este repositório contém um exercício com um gerador de senhas desenvolvido em
 
 Gerador simples de senhas com até 20 caracteres.
 
-Instalação:
-**npm install** - para instalar todas as dependencias.
+### Instalação </br>
+**npm install** - para instalar todas as dependencias. </br>
 **npm run dev** - para rodar o webpack.
 
-###Tecnologias Utilizadas
--JavaScript
+### Tecnologias Utilizadas
+- JavaScript
